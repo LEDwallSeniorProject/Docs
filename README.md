@@ -1,3 +1,5 @@
+#Classes
+
 [Polygon](https://github.com/LEDwallSeniorProject/Docs/blob/main/Classes/Polygon.md)
 
 [Circle](https://github.com/LEDwallSeniorProject/Docs/blob/main/Classes/Circle.md)
