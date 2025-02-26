@@ -33,4 +33,58 @@ Player 2:
   * Checks for button presses and calls mapped functions.  
   * In board mode: Reads events from the gamepad and checks for key press events. If a mapped button is pressed, the corresponding function is called.  
   * In debug mode: Checks for KEYDOWN events in pygame. If a mapped key is pressed, the corresponding function is called.
+ 
+
+### Keyboard Mappings
+#### Player 1
+
+`"LB": "q",`
+
+`"RB": "e"`
+
+`"UP": "w"`
+
+`DOWN": "s"`
+
+`"LEFT": "a"`
+
+`"RIGHT": "d"`
+
+`"A": "g"`
+
+`"B": "v"`
+
+`"Y": "f"`
+
+`"X": "t"`
+
+`"SELECT": "z"`
+
+`"START": "c"`
+
+#### Player 2
+
+`"LB2": "u"`
+
+`"RB2": "o"`
+
+`"UP2": "i"`
+
+`"DOWN2": "k"`
+
+`"LEFT2": "j"`
+
+`"RIGHT2": "l"`
+
+`"A2": "'"`
+
+`"B2": "/"`
+
+`"Y2": ";"`
+
+`"X2": "["`
+
+`"SELECT2": "m"`
+
+`"START2": "."`
 
